@@ -1,0 +1,17 @@
+.con_left_cexercie_add{
+	width: 50%;
+	height: 700px;
+	margin: auto;
+	background-color: #ffffff;
+}
+.file_exercise{
+	float: left;
+	width: 86%;
+    height: 20px;
+    padding: 10px 12px;
+    color: #555;
+  
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 4%;
+}

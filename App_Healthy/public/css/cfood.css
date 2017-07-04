@@ -1,0 +1,39 @@
+.con_left_cfood_add{
+	width: 50%;
+	height: 700px;
+	margin: auto;
+	background: white;
+}
+
+#select_food{
+	float: left;
+	width: 90%;
+	height: 40px;
+	/*margin-top: 20px;
+	margin-left: 4%;
+	margin-bottom: 10px;*/
+	margin-top: 30px;
+	border-radius: 4px;
+	  margin-left: 4%;
+	display: block;
+}
+
+#edit_cfood{
+	float: left;
+	border: none; 
+    color: white; 
+    padding: 14px 28px; 
+    cursor: pointer; 
+    width: 45%;
+    font-size: 18px;
+    background-color: #0375d8;
+}
+
+#edit_cfood:active {
+	font-size: 18px; 
+	
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
+
+
